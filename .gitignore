@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
+.env.local
+backend/.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Agent tooling / AI scaffolding
+.claude/
+CLAUDE.md
+*.claude.md
+agents/
+
+# IDE extra
+.vscode/
+
+# Local data
+pgdata/
+*.sqlite3
+*.db
+dump/
